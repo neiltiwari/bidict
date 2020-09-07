@@ -15,5 +15,6 @@ _build
 bidict.egg-info
 bidict/_version.py
 coverage.xml
+dist
 htmlcov
 pip-wheel-metadata
